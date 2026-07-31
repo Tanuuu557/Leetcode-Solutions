@@ -34,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
