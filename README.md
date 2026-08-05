@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
