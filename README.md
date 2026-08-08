@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
