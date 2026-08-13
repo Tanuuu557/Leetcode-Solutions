@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [1683-invalid-tweets](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
