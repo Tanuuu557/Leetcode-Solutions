@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
