@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
