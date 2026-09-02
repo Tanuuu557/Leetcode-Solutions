@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
