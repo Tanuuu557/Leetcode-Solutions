@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Tanuuu557/Leetcode-Solutions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
